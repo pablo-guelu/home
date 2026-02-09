@@ -29,7 +29,10 @@ My current playground is my own home, where I develop custom IoT solutions to au
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-3C2222?style=for-the-badge&logo=mqtt&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/bluetooth-%230082FC.svg?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-000000?style=for-the-badge&logo=wi-fi&logoColor=white)
 
 ---
 
