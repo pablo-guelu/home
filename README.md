@@ -1,6 +1,6 @@
 # Hi there, I'm Pablo 👋
 
-**Engineer | Tech Support| Maker | Problem Solver. Dedicated to building (and occasionally breaking) tech to create smarter, more efficient, and more enjoyable living spaces.**
+**Engineer | Tech Support| Maker | Problem Solver. Dedicated to building (and occasionally breaking) tech to create smarter, secure, more efficient, and more enjoyable living spaces.**
 
 My current playground is my own home, where I develop custom IoT solutions to automate the mundane and optimize the everyday.
 
