@@ -38,7 +38,7 @@ My current playground is my own home, where I develop custom IoT solutions to au
 
 ### 🏠 In the Lab (Home Automation, Software, Hardware and Tutorials Projects)
 
-* **Home Server Setup**: A detailed guide on how to setup a secure and reliable home server to manage Home Automations and Monitoring, VPN, Network-level Ad Blocker, Personal NAS, Webserver, and more.
+* **Home Server Setup**: A detailed guide on how to setup a secure and reliable home server to manage Home Automations and Monitoring, VPN, Network-level Ad Blocker, Personal NAS, Web Page Hosting, and more.
 * **DYI Human presence sensor**: Sensor connected to homeassistant and alarm devices to switch electrical outlets or alert presence (like babies behind doors).
 * **Elder Tech**: a web page dedicated to share tutorials for elder persons on how to use technology.
   
